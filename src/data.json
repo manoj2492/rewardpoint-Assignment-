@@ -1,0 +1,57 @@
+{
+    "purchases": [
+        {
+            "_id": 1,
+            "name": "custormer1",
+            "purchase": [
+                {
+                    "date": "04/03/2020",
+                    "price": 85,
+                    "item": "shirt"
+                },
+                {
+                    "date": "05/10/2020",
+                    "price": 120,
+                    "item": "hat"
+                },
+                {
+                    "date": "06/10/2020",
+                    "price": 80,
+                    "item": "computer"
+                }
+            ]
+        },
+        {
+            "_id": 2,
+            "name": "custormer2",
+            "purchase": [
+                {
+                    "date": "06/13/2020",
+                    "price": 150,
+                    "item": "book"
+                },
+                {
+                    "date": "04/10/2020",
+                    "price": 200,
+                    "item": "pants"
+                }
+            ]
+        },
+        {
+            "_id": 3,
+            "name": "custormer3",
+            "purchase": [
+                {
+                    "date": "04/13/2020",
+                    "price": 237,
+                    "item": "book"
+                },
+                {
+                    "date": "05/10/2020",
+                    "price": 199,
+                    "item": "mouse"
+                }
+            ]
+        }
+    ]
+}
